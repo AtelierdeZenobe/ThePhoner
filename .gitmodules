@@ -1,0 +1,9 @@
+[submodule "sw"]
+	path = sw
+	url = git@github.com:AtelierdeZenobe/phoner.git
+[submodule "3d"]
+	path = 3d
+	url = git@github.com:AtelierdeZenobe/ThePhoner_3D.git
+[submodule "hw"]
+	path = hw
+	url = git@github.com:AtelierdeZenobe/ThePhoner_hw.git
